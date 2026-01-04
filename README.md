@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Zohaib!
-🌟 Full-Stack Developer | 🌏 Based in [Your City/Country]
+🌟 Full-Stack Developer | 🌏 Based in Pakistan 
 
 ## About Me:
 - 🔭 Working on **[Your Current Projects]**.
