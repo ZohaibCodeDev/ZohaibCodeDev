@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Zohaib!
+🌟 Full-Stack Developer | 🌏 Based in [Your City/Country]
 
-<!--
-**ZohaibCodeDev/ZohaibCodeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+- 🔭 Working on **[Your Current Projects]**.
+- 🔥 Passionate about web development & open-source contributions.
+- 🌱 Learning: Kubernetes & Cloud deployments.
 
-Here are some ideas to get you started:
+## 🚀 Tech Skills:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects:
+- 🚀 [Portfolio Website](https://yourPortfolioLink.com): A rich interactive portfolio
+- 💻 [App Name](#URL): A personal budgeting tool 
+
+## 📊 GitHub Stats:
+![Zohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZohaibCodeDev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZohaibCodeDev&layout=compact&theme=radical)
+
+## ⚡ Fun Facts:
+- 🥇 Competitive chess player
+- 💬 Love talking about code, system design, & coffee ☕
+- 
