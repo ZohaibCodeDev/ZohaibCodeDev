@@ -2,7 +2,7 @@
 🌟 Full-Stack Developer | 🌏 Based in Pakistan 
 
 ## About Me:
-- 🔭 Working on **[Your Current Projects]**.
+- 🔭 Working on **DYNAMIC MINIGAMES SOFTWARE**.
 - 🔥 Passionate about web development & open-source contributions.
 - 🌱 Learning: Kubernetes & Cloud deployments.
 
